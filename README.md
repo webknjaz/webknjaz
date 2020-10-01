@@ -8,7 +8,7 @@
         Dear Hacktoberfest participants. Please note that in order for
         your contributions to be reasonably useful to the community,
         you should take a great care about the quality of your pull
-        requests. Failing to going so creates a lot of harm hurting
+        requests. Failing to do so creates a lot of harm hurting
         many wonderful project maintainers. Here's a bit more context
         explaining the problem:
       </p>
