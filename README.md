@@ -44,6 +44,11 @@
           https://twitter.com/GeoffreyHuntley/status/1195578862807076865
         </li>
       </ul>
+      <p>
+        If you're from Hacktoberfest, consider making a positive impact
+        by funding the FOSS efforts instead of disturbing them:
+        https://github.com/sponsors/webknjaz 💰💰💰
+      </p>
     </td>
   </tr>
 </table>
