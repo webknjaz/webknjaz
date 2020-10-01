@@ -1,3 +1,51 @@
+<table>
+  <tr>
+    <td>
+      <img src="_vendor/hacktoberfest_logo.svg">
+    </td>
+    <td>
+      <p>
+        Dear Hacktoberfest participants. Please note that in order for
+        your contributions to be reasonably useful to the community,
+        you should take a great care about the quality of your pull
+        requests. Failing to going so creates a lot of harm hurting
+        many wonderful project maintainers. Here's a bit more context
+        explaining the problem:
+      </p>
+      <ul>
+        <li>
+          https://blog.domenic.me/hacktoberfest/
+        </li>
+        <li>
+          https://twitter.com/cherrypy/status/1311600792340701184
+        </li>
+        <li>
+          https://twitter.com/zooba/status/1311584935292088320
+        </li>
+        <li>
+          https://twitter.com/pradyunsg/status/1311617489437155329
+        </li>
+        <li>
+          https://twitter.com/kentcdodds/status/1311645312902078466
+        </li>
+        <li>
+          https://twitter.com/pradyunsg/status/1311572102525276161
+        </li>
+        <li>
+          https://twitter.com/jugmac00/status/1311594244684087303
+        </li>
+        <li>
+          https://twitter.com/pradyunsg/status/1311576687939780615
+        </li>
+        <li>
+          https://twitter.com/sethmlarson/status/1311401733147504645
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on [ansible/pylibssh](/ansible/pylibssh),
