@@ -56,12 +56,12 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on [ansible/pylibssh](/ansible/pylibssh),
-  [ansible/ansible](/ansible/ansible) by day 🌅 and when the sun goes
-  down 🌇 I do [all sorts of other FOSS things](/sponsors/webknjaz).
+- 🔭 I’m currently working on [ansible/pylibssh](https://github.com/ansible/pylibssh),
+  [ansible/ansible](https://github.com/ansible/ansible) by day 🌅 and when the sun goes
+  down 🌇 I do [all sorts of other FOSS things](https://github.com/sponsors/webknjaz).
   I used to be heavily involved with [ansible/ansible-lint](
   /ansible/ansible-lint) but now I've left it in the hands of [@ssbarnea](
-  /sponsors/ssbarnea) — please support him in leading the project
+  https://github.com/sponsors/ssbarnea) — please support him in leading the project
 - 🌱 I’m currently learning [CPython Internals](
 https://realpython.com/products/cpython-internals-book/)
   and [the basics of OpenShift](
