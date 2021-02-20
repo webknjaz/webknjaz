@@ -45,7 +45,7 @@ jobs:
             {
                 'title': post['title'],
                 'url': post['link'],
-                'updated': post['updated'].lsplit('T')[0],
+                'updated': post['updated'].split('T')[0],
             }
             for post in atom_blog_posts
         ]
