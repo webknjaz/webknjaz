@@ -78,3 +78,12 @@ https://realpython.com/products/cpython-internals-book/)
 - ⚡ Fun fact: wanting to "fix" a game got me interested in computers
   when I was 7 but when I got older I lost interest in games, worked in
   gaming for just 3 months and never looked back
+
+### My ramblings 📝
+
+
+- [ansible-galaxy CLI ❤️ resolvelib _(2021-02-17)_](https://webknjaz.me/prose/ansible-galaxy-reuses-pips-resolvelib/)
+
+- [Et Tu Brutè? Use Travis CI for FOSS no more. _(2020-11-13)_](https://webknjaz.me/prose/et-tu-brute-use-travis-ci-for-foss-no-more/)
+
+- [Hello Website. Again. _(2020-11-01)_](https://webknjaz.me/prose/brave-new-world/)
