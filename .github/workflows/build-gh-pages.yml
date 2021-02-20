@@ -1,0 +1,67 @@
+name: Refresh the profile contents
+
+on:
+  push:
+  pull_request:
+  # https://crontab.guru/#23_*/4_*_*_*
+  - cron: 23 */4 * * *  # At minute 23 past every 4th hour.
+
+jobs:
+  gh-pages:
+    name: 👷
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Switch to Python 3.9
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.9
+    - name: Install packaging-related dists from PyPI
+      run: >-
+        python -m
+        pip install
+        -U --user
+        setuptools pip wheel
+    - name: Install feedparser and jinja2 dists from PyPI
+      run: >-
+        python -m
+        pip install
+        -U --user
+        feedparser jinja2
+    - name: Check out src from Git
+      uses: actions/checkout@v2
+    - name: Generate the README
+      run: |
+        from pathlib import Path
+
+        import feedparser
+        import jinja2
+
+        rss_feed_url = 'https://webknjaz.me/feed.xml'
+        atom_blog_posts = feedparser.parse(rss_feed_url)['entries']
+
+        jinja2_ctx_posts = [
+            {
+                'title': post['title'],
+                'url': post['link'],
+                'updated': post['updated'].lsplit('T')[0],
+            }
+            for post in atom_blog_posts
+        ]
+
+        env = jinja2.Environment(
+            loader=jinja2.FileSystemLoader(searchpath='.'),
+        )
+        readme_template = env.get_template('README.md.j2')
+
+        rendered_readme = readme_template.render(posts=jinja2_ctx_posts)
+        (Path.cwd() / 'README.md').write_text(rendered_readme)
+    - name: Publish the Lektor website to GH Pages
+      if: github.event_name != 'pull_request'
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        force_orphan: false
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_branch: master
+        publish_dir: .
+        keep_files: true
