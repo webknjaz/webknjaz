@@ -56,7 +56,9 @@ jobs:
         readme_template = env.get_template('README.md.j2')
 
         rendered_readme = readme_template.render(posts=jinja2_ctx_posts)
-        (Path.cwd() / 'README.md').write_text(rendered_readme)
+        (
+            Path('${{ env.GITHUB_WORKSPACE }}').parent / 'README.md'
+        ).resolve().absolute().write_text(rendered_readme)
     - name: Publish the Lektor website to GH Pages
       if: github.event_name != 'pull_request'
       uses: peaceiris/actions-gh-pages@v3
