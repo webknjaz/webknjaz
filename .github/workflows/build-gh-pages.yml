@@ -58,12 +58,19 @@ jobs:
         rendered_readme = readme_template.render(posts=jinja2_ctx_posts)
         (Path.cwd() / 'README.md').write_text(rendered_readme)
       shell: python
-    - name: Publish the Lektor website to GH Pages
-      if: github.event_name != 'pull_request'
-      uses: peaceiris/actions-gh-pages@v3
-      with:
-        force_orphan: false
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_branch: master
-        publish_dir: .
-        keep_files: true
+    - name: Log the resulting README
+      run: cat README.md
+    - name: Check if README changed
+      id: readme_changed
+      run: >-
+        git diff --quiet
+        && echo '::set-output name=result::false'
+        || echo '::set-output name=result::true'
+    - name: Commit and push README
+      if: steps.readme_changed.outputs.result == 'true'
+      run: |-
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+        git config user.name "github-actions[bot]"
+        git add README.md && git commit -m "Updated README with GHA"
+        git show
+        git push
