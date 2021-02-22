@@ -81,9 +81,4 @@ https://realpython.com/products/cpython-internals-book/)
 
 ### My ramblings 📝
 
-
-- [ansible-galaxy CLI ❤️ resolvelib _(2021-02-17)_](https://webknjaz.me/prose/ansible-galaxy-reuses-pips-resolvelib/)
-
-- [Et Tu Brutè? Use Travis CI for FOSS no more. _(2020-11-13)_](https://webknjaz.me/prose/et-tu-brute-use-travis-ci-for-foss-no-more/)
-
-- [Hello Website. Again. _(2020-11-01)_](https://webknjaz.me/prose/brave-new-world/)
+- [ansible-galaxy CLI ❤️ resolvelib _(2021-02-17)_](https://webknjaz.me/prose/ansible-galaxy-reuses-pips-resolvelib/)- [Et Tu Brutè? Use Travis CI for FOSS no more. _(2020-11-13)_](https://webknjaz.me/prose/et-tu-brute-use-travis-ci-for-foss-no-more/)- [Hello Website. Again. _(2020-11-01)_](https://webknjaz.me/prose/brave-new-world/)
