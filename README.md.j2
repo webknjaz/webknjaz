@@ -1,7 +1,9 @@
 <table>
   <tr>
     <td>
-      <img src="_vendor/hacktoberfest_logo.svg">
+      <a href="https://hacktoberfest.digitalocean.com/">
+        <img src="_vendor/hacktoberfest_logo.svg">
+      </a>
     </td>
     <td>
       <p>
