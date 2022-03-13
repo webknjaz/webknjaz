@@ -1,4 +1,11 @@
-<table>
+[![SWUbanner]][SWUdocs]
+
+[SWUbanner]:
+https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg
+[SWUdocs]:
+https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md
+
+<!--table>
   <tr>
     <td>
       <a href="https://hacktoberfest.digitalocean.com/">
@@ -53,7 +60,7 @@
       </p>
     </td>
   </tr>
-</table>
+</table-->
 
 
 ### Hi there 👋
