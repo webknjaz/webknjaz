@@ -67,22 +67,25 @@ https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md
 
 - 🔭 I’m currently working on [ansible/pylibssh](
   https://github.com/ansible/pylibssh), [ansible/ansible](
-  https://github.com/ansible/ansible), recently extended with dev tools
+  https://github.com/ansible/ansible), and used to help with dev tools
   like [ansible/ansible-lint](https://github.com/ansible/ansible-lint)
-  by day 🌅 and when the sun goes down 🌇 I do [all sorts of other FOSS
+  by day 🌅; but when the sun goes down 🌇 I do [all sorts of other FOSS
   things](https://github.com/sponsors/webknjaz)
 - 🌱 I’m currently learning [CPython Internals](
 https://realpython.com/products/cpython-internals-book/)
   and [the basics of OpenShift](
   https://www.redhat.com/en/services/training/do180-introduction-containers-kubernetes-red-hat-openshift)
 - 👯 I’m looking to collaborate on improving the Python ecosystem around
-  making GitHub Apps and Actions, packaging, testing, CI/CD
+  making GitHub Apps and Actions (I authored [`pypi-publish`](
+  https://github.com/marketplace/actions/pypi-publish), for example —
+  a Github Action for tokenless publishing of distribution packages
+  to PyPI), packaging, testing, CI/CD
 - 🤔 I’m looking for help with getting more hours in a day
 - 💬 Ask me about Python packaging, CI/CD, pytest, creating GitHub Apps,
   GitHub Actions, Ansible Collections, CherryPy internals,
   async in Python 3, tox, Gentoo Linux, Git, code reviews, linters,
   maintaining the compatibility with legacy Pythons, dev env, burnouts
-- 📫 How to reach me: tweet
+- 📫 How to reach me: bluesky, matrix, mastodon
 - 😄 Pronouns: [he/him](http://pronoun.is/he)
 - ⚡ Fun fact: wanting to "fix" a game got me interested in computers
   when I was 7 but when I got older I lost interest in games, worked in
