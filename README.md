@@ -95,3 +95,15 @@ https://realpython.com/products/cpython-internals-book/)
 - [ansible-galaxy CLI ❤️ resolvelib _(2021-02-17)_](https://webknjaz.me/prose/ansible-galaxy-reuses-pips-resolvelib/)
 - [Et Tu Brutè? Use Travis CI for FOSS no more. _(2020-11-13)_](https://webknjaz.me/prose/et-tu-brute-use-travis-ci-for-foss-no-more/)
 - [Hello Website. Again. _(2020-11-01)_](https://webknjaz.me/prose/brave-new-world/)
+
+<hr>
+
+<div align="center">
+  <a rel="me" href="https://webknjaz.me">www</a>
+  | <a rel="me" href="https://bsky.app/profile/webknjaz.me">Bluesky</a>
+  | <a rel="me" href="https://mastodon.social/@webknjaz">Mastodon</a>
+  | <a rel="me" href="https://stackoverflow.com/users/595220/webknjaz">StackOverflow</a>
+  | <a rel="me" href="https://matrix.to/#/@webknjaz:matrix.org">Matrix</a>
+  | <a rel="me" href="https://www.linkedin.com/in/webknjaz">LinkedIn</a>
+  | <a rel="me" href="https://twitter.com/webknjaz">Xitter</a>
+</div>
