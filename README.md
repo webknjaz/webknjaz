@@ -88,7 +88,7 @@ https://realpython.com/products/cpython-internals-book/)
   async in Python 3, tox, Gentoo Linux, Git, code reviews, linters,
   maintaining the compatibility with legacy Pythons, dev env, burnouts
 - 📫 How to reach me: bluesky, matrix, mastodon
-- 😄 Pronouns: [he/him](http://pronoun.is/he)
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: wanting to "fix" a game got me interested in computers
   when I was 7 but when I got older I lost interest in games, worked in
   gaming for just 3 months and never looked back
