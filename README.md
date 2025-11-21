@@ -79,7 +79,9 @@ https://realpython.com/products/cpython-internals-book/)
   making GitHub Apps and Actions (I authored [`pypi-publish`](
   https://github.com/marketplace/actions/pypi-publish), for example —
   a Github Action for tokenless publishing of distribution packages
-  to PyPI), packaging, testing, CI/CD
+  to PyPI), packaging (I recently became a lead of [`pip-tools`](
+  https://pip-tools.rtfd.io)), testing, CI/CD, reusable workflows and FOSS
+  mass maintenance
 - 🤔 I’m looking for help with getting more hours in a day
 - 💬 Ask me about Python packaging, CI/CD, pytest, creating GitHub Apps,
   GitHub Actions, Ansible Collections, CherryPy internals,
