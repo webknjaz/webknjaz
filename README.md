@@ -103,11 +103,11 @@ https://realpython.com/products/cpython-internals-book/)
 
 <div align="center">
   <a rel="me" href="https://github.com/sponsors/webknjaz">💰</a>
-  | <a rel="me" href="https://webknjaz.me">www</a>
-  | <a rel="me" href="https://bsky.app/profile/webknjaz.me">Bluesky</a>
-  | <a rel="me" href="https://mastodon.social/@webknjaz">Mastodon</a>
-  | <a rel="me" href="https://stackoverflow.com/users/595220/webknjaz">StackOverflow</a>
-  | <a rel="me" href="https://matrix.to/#/@webknjaz:matrix.org">Matrix</a>
-  | <a rel="me" href="https://www.linkedin.com/in/webknjaz">LinkedIn</a>
-  | <a rel="me" href="https://twitter.com/webknjaz">Xitter</a>
+  | <a rel="me" href="https://webknjaz.me">📰 www</a>
+  | <a rel="me" href="https://bsky.app/profile/webknjaz.me">🦋 Bluesky</a>
+  | <a rel="me" href="https://mastodon.social/@webknjaz">🦣 Mastodon</a>
+  | <a rel="me" href="https://stackoverflow.com/users/595220/webknjaz">🔮 StackOverflow</a>
+  | <a rel="me" href="https://matrix.to/#/@webknjaz:matrix.org">💻 Matrix</a>
+  | <a rel="me" href="https://www.linkedin.com/in/webknjaz">👨‍💻 LinkedIn</a>
+  | <a rel="me" href="https://twitter.com/webknjaz">🐦 Xitter</a>
 </div>
