@@ -109,6 +109,6 @@ https://realpython.com/products/cpython-internals-book/)
   | <a rel="me" href="https://mastodon.social/@webknjaz">🦣 Mastodon</a>
   | <a rel="me" href="https://stackoverflow.com/users/595220/webknjaz">🔮 StackOverflow</a>
   | <a rel="me" href="https://matrix.to/#/@webknjaz:matrix.org">💻 Matrix</a>
-  | <a rel="me" href="https://www.linkedin.com/in/webknjaz">👨‍💻 LinkedIn</a>
-  | <a rel="me" href="https://twitter.com/webknjaz">🐦 Xitter</a>
+  | <a rel="me" href="https://www.linkedin.com/in/webknjaz">👨‍💻 LinkedIn</a><del>
+  | <a rel="me" href="https://twitter.com/webknjaz">🐦 Xitter</a></del>
 </div>
