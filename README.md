@@ -95,10 +95,10 @@ https://realpython.com/products/cpython-internals-book/)
 - Oh, and also I'm a [![Contact me on Codementor](https://www.codementor.io/m-badges/webknjaz/book-session.svg)](https://www.codementor.io/@webknjaz?refer=badge)
 
 ### My ramblings 📝
-- [ansible-galaxy CLI ❤️ resolvelib _(2025-11-27)_](https://webknjaz.me/prose/ansible-galaxy-reuses-pips-resolvelib/)
 - [Get Off My LAN: Banishing a Google Home Smart Speaker with OpenWRT by Mistake _(2025-11-27)_](https://webknjaz.me/prose/google-home-in-exile/)
-- [Hello Website. Again. _(2025-11-27)_](https://webknjaz.me/prose/brave-new-world/)
-- [Et Tu Brutè? Use Travis CI for FOSS no more. _(2025-11-27)_](https://webknjaz.me/prose/et-tu-brute-use-travis-ci-for-foss-no-more/)
+- [ansible-galaxy CLI ❤️ resolvelib _(2021-02-17)_](https://webknjaz.me/prose/ansible-galaxy-reuses-pips-resolvelib/)
+- [Et Tu Brutè? Use Travis CI for FOSS no more. _(2020-11-13)_](https://webknjaz.me/prose/et-tu-brute-use-travis-ci-for-foss-no-more/)
+- [Hello Website. Again. _(2020-11-01)_](https://webknjaz.me/prose/brave-new-world/)
 
 <hr>
 
